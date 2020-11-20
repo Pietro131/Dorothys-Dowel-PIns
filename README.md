@@ -16,3 +16,4 @@ https://cvilleschools.onshape.com/documents/d1640fcee954db0a37084e19/w/9efc3354f
 
 # Image
 
+<img src=images/Screenshot 2020-11-20 184217.png alt=Dorothy's Dowel Pins width=250 height=200>
