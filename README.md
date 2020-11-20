@@ -16,4 +16,4 @@ https://cvilleschools.onshape.com/documents/d1640fcee954db0a37084e19/w/9efc3354f
 
 # Image
 
-<img src="images/Dorothy.png" alt="Dorothy's Dowel Pins" width="500" height="400">
+<img src="images/Dorothy.png" alt="Dorothy's Dowel Pins" width="550" height="400">
